@@ -25,7 +25,7 @@ reg clk=0,rst=0;
 reg [13:0] Instr;
 wire [7:0] out;
 
-//File pointer
+//Test Number
 integer t_no=1;
 
 initial
